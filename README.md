@@ -1,10 +1,10 @@
 <img src="Andersen_lab.jpg" alt="hi" class="inline" width="500">
 
-# ivar
+# iVar
 
 ## bioinformatics protocol
 
-#### This document is for the ivar package: https://github.com/andersen-lab/ivar
+#### This document is for the iVar package: https://github.com/andersen-lab/ivar
 
 ```Instructions for setting up the environment for running ivar```
 
@@ -14,7 +14,7 @@ These instructions are for a 64-bit UNIX, Linux or similar envrionment.
 
 #### Conda
 
-ivar is installed using [Conda](https://conda.io/en/latest/)
+iVar is installed using [Conda](https://conda.io/en/latest/)
 
 #### Installing ivar
 Install the ivar repository:
