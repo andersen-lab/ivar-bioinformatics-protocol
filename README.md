@@ -1,6 +1,7 @@
-# ivar
 
 ![image](https://github.com/andersen-lab/ivar-bioinformatics-protocol/blob/master/Andersen_lab.jpg)
+
+# ivar
 
 ## bioinformatics protocol
 
