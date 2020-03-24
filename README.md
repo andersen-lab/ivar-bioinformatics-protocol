@@ -1,4 +1,4 @@
-<img src="Andersen_lab.jpg" alt="hi" class="inline"/>
+<img src="Andersen_lab.jpg" alt="hi" class="inline"/ width="42">
 
 
 # ivar
