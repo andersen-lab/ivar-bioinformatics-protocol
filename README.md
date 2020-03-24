@@ -2,7 +2,7 @@
 
 # ivar
 
-## bioinformatics protoco
+## bioinformatics protocol
 
 #### This document is for the ivar package: https://github.com/andersen-lab/ivar
 
