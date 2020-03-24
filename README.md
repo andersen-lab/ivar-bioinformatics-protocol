@@ -1,8 +1,8 @@
 <img src="Andersen_lab.jpg" alt="hi" class="inline" width="500">
 
-#ivar
+# ivar
 
-##bioinformatics protoco
+## bioinformatics protoco
 
 #### This document is for the ivar package: https://github.com/andersen-lab/ivar
 
