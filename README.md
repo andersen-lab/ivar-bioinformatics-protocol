@@ -1,10 +1,5 @@
 <img src="Andersen_lab.jpg" alt="hi" class="inline" width="500">
 
-
-# ivar
-
-## bioinformatics protocol
-
 #### This document is for the ivar package: https://github.com/andersen-lab/ivar
 
 ```Instructions for setting up the environment for running ivar```
