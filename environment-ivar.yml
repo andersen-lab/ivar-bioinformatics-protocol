@@ -8,3 +8,4 @@ dependencies:
   - samtools=1.9
   - pandas=0.23.0=py36_1
   - bwa=0.7.17=pl5.22.0_2
+  - ivar=1.1
