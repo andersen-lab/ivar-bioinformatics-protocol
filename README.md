@@ -1,5 +1,5 @@
+<img src="Andersen_lab.jpg" alt="hi" class="inline"/>
 
-![image](https://github.com/andersen-lab/ivar-bioinformatics-protocol/blob/master/Andersen_lab.jpg)
 
 # ivar
 
