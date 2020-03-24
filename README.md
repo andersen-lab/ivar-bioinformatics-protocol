@@ -1,6 +1,6 @@
 # ivar
 
-## bioinformatics
+## bioinformatics tool
 
 #### This document is part of the ivar package: https://github.com/andersen-lab/ivar
 
