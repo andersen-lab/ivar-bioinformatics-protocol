@@ -42,14 +42,16 @@
     <div id="footer_wrap" class="outer">
       <footer class="inner">
         {% if site.github.is_project_page %}
-        <tbody>
-        <tr>
-          <th rowspan="3" scope="rowgroup"><img src="Andersen_lab.jpg" alt="hi" width="300"></th>
-          <td>{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</td>
-          <td>Published with <a href="https://pages.github.com">GitHub Pages</a></td>
-          <td>A4</td>
-        </tr>
-        </tbody>
+          <tbody>
+            <tr>
+              <th rowspan="3" scope="rowgroup"><p><img src="Andersen_lab.jpg" alt="hi" width="300"></p></th>
+              <th scope="row">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</th>
+            </tr>
+            <tr>
+              <th scope="row">Published with <a href="https://pages.github.com">GitHub Pages</th>
+            </tr>
+          </tbody>
+        </table>
         {% endif %}
       </footer>
     </div>
